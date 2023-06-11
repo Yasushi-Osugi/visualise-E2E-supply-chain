@@ -1,0 +1,16 @@
+起動方法と処理内容
+Yasushi-Osugi-visualise-E2E-supply-chain-plan
+
+【起動方法と処理内容】
+
+0. 実行前に、ディレクトリ内のイメージファイル *.pngを削除しておく。
+
+1. "global_weekly_Dm_Sp_visualise_sankey200_accume_GIF.py"を実行する
+
+2. イメージファイル *.pngが生成される。
+
+3. "png2gif.py"を実行する。
+
+4. image.gifが生成される。
+
+以上
